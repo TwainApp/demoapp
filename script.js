@@ -1,8 +1,8 @@
 // Simulate generated videos
 const videoFilenames = [
-  'videos/question_0.mp4',
-  'videos/question_1.mp4',
-  'videos/question_2.mp4'
+  'videos/question0.mp4',
+  'videos/question1.mp4',
+  'videos/question2.mp4'
 ];
 
 const container = document.getElementById('video-list');
